@@ -1,0 +1,177 @@
+export    const data=[
+        {
+        image: "assets/img/iphone.png",
+        company: "IPHONE",
+        price: 679,
+    },
+    {
+        image: "assets/img/mac-pro.png",
+        company: "samsung",
+        price: 679,
+    },
+    {
+        image: "assets/img/iphone.png",
+        company: "IPHONE",
+        price: 679,
+    },
+    {
+        image: "assets/img/ipad-pro.png",
+        company: "IPHONE",
+        price: 679,
+    },
+    {
+        image: "assets/img/mac-pro.png",
+        company: "IPHONE",
+        price: 679,
+    },
+    {
+        image: "assets/img/iphone.png",
+        company: "IPHONE",
+        price: 679,
+    },
+    {
+        image: "assets/img/iphone.png",
+        company: "IPHONE",
+        price: 679,
+    },
+    {
+        image: "assets/img/iphone.png",
+        company: "samsung",
+        price: 679,
+    },
+    {
+        image: "assets/img/iphone.png",
+        company: "IPHONE",
+        price: 679,
+    },
+    {
+        image: "assets/img/iphone.png",
+        company: "IPHONE",
+        price: 679,
+    },
+    {
+        image: "assets/img/iphone.png",
+        company: "IPHONE",
+        price: 679,
+    },
+    {
+        image: "assets/img/iphone.png",
+        company: "IPHONE",
+        price: 679,
+    },
+    {
+        image: "assets/img/iphone.png",
+        company: "IPHONE",
+        price: 679,
+    },
+    {
+        image: "assets/img/iphone.png",
+        company: "samsung",
+        price: 679,
+    },
+    {
+        image: "assets/img/iphone.png",
+        company: "IPHONE",
+        price: 679,
+    },
+    {
+        image: "assets/img/iphone.png",
+        company: "IPHONE",
+        price: 679,
+    },
+    {
+        image: "assets/img/iphone.png",
+        company: "Nokia",
+        price: 3434,
+    },
+    {
+        image: "assets/img/iphone.png",
+        company: "IPHONE",
+        price: 679,
+    },
+]
+export const Mobile=[
+    {   id: 1,
+        image: "assets/img/iphone.png",
+        largeImage: "assets/img/iphone-6s-plus.png",
+        company: "Infinx", 
+        price: 69979,
+        abc: "xyz"
+    },
+    {   id: 2,
+        image: "assets/img/mac-pro.png",
+        largeImage: "assets/img/iphone-6s-plus.png",
+        company: "DIGIT",
+        price: 89979,
+    },
+    {   id: 3,
+        image: "assets/img/iphone.png",
+        largeImage: "assets/img/iphone-6s-plus.png",
+        company: "IPHONE",
+        price:30000,
+    },
+    {   id: 4,
+        image: "assets/img/ipad-pro.png",
+        largeImage: "assets/img/iphone-6s-plus.png",
+        company: "Nokia",
+        price: 20000,
+    },
+    {   id: 5,
+        image: "assets/img/iphone-6s-plus.png",
+        largeImage: "assets/img/iphone-6s-plus.png",
+        company: "Huwawi",
+        price: 40000,
+    },
+    {   id: 6,
+        image: "assets/img/iphone.png",
+        largeImage: "assets/img/iphone-6s-plus.png",
+        company: "samsung",
+        price: 50000,
+    },
+]
+
+export    const Tablet=[
+    {   id: 6,
+        image: "assets/img/iphone.png",
+        largeImage: "assets/img/iphone-6s-plus.png",
+        company: "Infinx(Tablet)", 
+        price: 69979,
+        abc: "xyz"
+    },
+    {   id: 7,
+        image: "assets/img/mac-pro.png",
+        largeImage: "assets/img/iphone-6s-plus.png",
+        company: "DIGIT(Tablet)",
+        price: 89979,
+    },
+    {   id: 8,
+        image: "assets/img/iphone.png",
+        largeImage: "assets/img/iphone-6s-plus.png",
+        company: "IPHONE(Tablet)",
+        price:30000,
+    },
+    {   id: 9,
+        image: "assets/img/ipad-pro.png",
+        largeImage: "assets/img/iphone-6s-plus.png",
+        company: "Nokia(Tablet)",
+        price: 20000,
+    },
+    {   id: 10,
+        image: "assets/img/iphone-6s-plus.png",
+        largeImage: "assets/img/iphone-6s-plus.png",
+        company: "Huwawi(Tablet)",
+        price: 40000,
+    },
+    {   id: 11,
+        image: "assets/img/iphone.png",
+        largeImage: "assets/img/iphone-6s-plus.png",
+        company: "samsung(Tablet)",
+        price: 50000,
+    }
+]
+  export const mobileBrands=[
+    "samsung","Huwawi","Nokia","IPHONE","DIGIT","Infinx","SHOW ALL"
+  ]
+  export  const tabletBrands=[
+      "samsung","Huwawi","Nokia","IPHONE","DIGIT","Infinx","SHOW ALL"
+  ]
